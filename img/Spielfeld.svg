@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2000mm"
+   height="1000mm"
+   viewBox="0 0 2000 1000"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="Spielfeld.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     showgrid="true"
+     inkscape:zoom="0.2874653"
+     inkscape:cx="3537.8183"
+     inkscape:cy="1892.4023"
+     inkscape:window-width="3440"
+     inkscape:window-height="1387"
+     inkscape:window-x="1728"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="1280.1288,682.97749"
+       orientation="1,0"
+       id="guide12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="970,189.99999"
+       orientation="1,0"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="300,319.99999"
+       orientation="0,-1"
+       id="guide14"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,999.99999"
+       orientation="0,7559.0551"
+       id="guide15"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2000,999.99999"
+       orientation="3779.5276,0"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2000,0"
+       orientation="0,-7559.0551"
+       id="guide17"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-3779.5276,0"
+       id="guide18"
+       inkscape:locked="false" />
+    <inkscape:grid
+       id="grid18"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999999"
+       spacingy="0.99999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false"
+       dotted="false" />
+    <sodipodi:guide
+       position="1710,719.99999"
+       orientation="0,-1"
+       id="guide19"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1545,729.99999"
+       orientation="0,-1"
+       id="guide20"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1535,709.99999"
+       orientation="0,-1"
+       id="guide21"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1500,614.99999"
+       orientation="1,0"
+       id="guide22"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1520,579.99999"
+       orientation="1,0"
+       id="guide23"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="561.18007"
+       y="667.34927"
+       width="4641.1109"
+       height="439.84384"
+       id="rect10" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g14"
+       transform="translate(-18.413938,-50.947932)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="rect1"
+         width="250"
+         height="250"
+         x="66.05912"
+         y="605.79877" />
+      <rect
+         style="fill:#4842d4;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         id="rect7"
+         width="245"
+         height="245"
+         x="68.413948"
+         y="608.44794" />
+    </g>
+    <rect
+       style="fill:#ffdf17;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       id="rect8"
+       width="88"
+       height="152"
+       x="1782"
+       y="204" />
+    <rect
+       style="fill:#09b900;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9"
+       width="56"
+       height="56"
+       x="1252.1288"
+       y="844" />
+    <rect
+       style="fill:#09b900;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9-2"
+       width="56"
+       height="56"
+       x="942.00006"
+       y="459.9873" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text9"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);fill:#09b900;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="561.17969"
+         y="678.29757"
+         id="tspan1">IT:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#09b900;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="160.51772"
+       y="210.67952"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.265"
+         x="160.51772"
+         y="210.67952" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.6px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#09b900;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="24.077658"
+       y="116.37534"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.6px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-width:0.265"
+         x="24.077658"
+         y="116.37534">Spike Roboter Team Challenge</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265261;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12"
+       width="1202.3751"
+       height="20"
+       x="297.62494"
+       y="670.0127" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18"
+       width="20.089304"
+       height="154"
+       x="1270"
+       y="690" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18-1"
+       width="20.089304"
+       height="154"
+       x="959.95538"
+       y="516" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.262793;stroke-dasharray:none;stroke-opacity:1"
+       id="rect23"
+       width="19.999962"
+       height="420.0127"
+       x="1500"
+       y="270"
+       ry="2.0599364e-06" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect24"
+       width="262.00003"
+       height="20.175659"
+       x="1520"
+       y="270"
+       ry="2.0599364e-06" />
+  </g>
+</svg>
