@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    sodipodi:docname="Spielfeld.svg"
+   inkscape:export-filename="Spielfeld.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,11 +26,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     showguides="false"
+     showguides="true"
      showgrid="true"
-     inkscape:zoom="0.2874653"
-     inkscape:cx="3537.8183"
-     inkscape:cy="1892.4023"
+     inkscape:zoom="0.19956273"
+     inkscape:cx="3612.8991"
+     inkscape:cy="1708.7359"
      inkscape:window-width="3440"
      inkscape:window-height="1387"
      inkscape:window-x="1728"
@@ -112,6 +115,14 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <linearGradient
+       id="swatch29"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop29" />
+    </linearGradient>
     <rect
        x="561.18007"
        y="667.34927"
@@ -123,40 +134,29 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g14"
-       transform="translate(-18.413938,-50.947932)">
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         id="rect1"
-         width="250"
-         height="250"
-         x="66.05912"
-         y="605.79877" />
-      <rect
-         style="fill:#4842d4;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-         id="rect7"
-         width="245"
-         height="245"
-         x="68.413948"
-         y="608.44794" />
-    </g>
     <rect
-       style="fill:#ffdf17;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#00a0e3;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="250"
+       height="250"
+       x="45.000008"
+       y="555" />
+    <rect
+       style="fill:#e8ff00;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect8"
        width="88"
        height="152"
        x="1782"
        y="204" />
     <rect
-       style="fill:#09b900;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#823f91;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        id="rect9"
        width="56"
        height="56"
        x="1252.1288"
        y="844" />
     <rect
-       style="fill:#09b900;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#823f91;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        id="rect9-2"
        width="56"
        height="56"
@@ -166,7 +166,7 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text9"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);fill:#09b900;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-dasharray:none;stroke-opacity:1"><tspan
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#09b900;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="561.17969"
          y="678.29757"
          id="tspan1">IT:</tspan></text>
@@ -228,6 +228,14 @@
        height="20.175659"
        x="1520"
        y="270"
+       ry="2.0599364e-06" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#00a0e3;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25"
+       width="1995"
+       height="990"
+       x="5"
+       y="5"
        ry="2.0599364e-06" />
   </g>
 </svg>
