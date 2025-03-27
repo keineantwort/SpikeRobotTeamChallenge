@@ -1,7 +1,7 @@
 # Vorbereitung
 
 - [ ] Klären worauf entwickelt wird (Privat/Dienst/Tablet)
-  - [ ] Anletiung Setup IDE
+  - [ ] Anleitung Setup IDE
 - [ ] SPIKEs mit PyBricks flashen
 - [ ] 3 Spielfelder drucken (1x Wertungsfeld, 2x Trainingfeld)
   
