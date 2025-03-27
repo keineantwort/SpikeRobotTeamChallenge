@@ -20,7 +20,9 @@ Jedes Team hat 9-10 Teammitglieder. Die Teams strukturieren sich selbst.
 
 Jedes Team bekommt [Lego Education SPIKE Prime](https://education.lego.com/de-de/products/lego-education-spike-prime-set/45678/) Set. Aus diesem Set wird der Roboter, das Zielfeld und das Objekt gebaut.
 
-Programmiert wird mit Micropython. Die SPIKE Steine sind mit [PyBricks](https://docs.pybricks.com/en/stable/) versehen.
+Programmiert wird in Micropython. Die SPIKE Steine sind mit [PyBricks](https://docs.pybricks.com/en/stable/) versehen.
+
+Als IDE kann der [PyBricks Web Editor](https://code.pybricks.com/), [PyCharm](https://www.jetbrains.com/de-de/pycharm/download/) oder [VS Code](https://pybricks.com/project/pybricks-other-editors/) verwendet werden.
 
 ## Wie lange?
 
