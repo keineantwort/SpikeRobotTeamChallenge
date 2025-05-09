@@ -4,7 +4,7 @@ Im folgenden werden die Aufgaben zur Spike Robot Team Challenge beschrieben.
 
 ## Was?
 
-Die Teams müssen einen Roboter bauen, welcher mittels Micropython programmiert wird. Der Roboter soll ein selbst gebautes Objekt in einen Zielbereich fahren. Dabei wird der Ablageort von der Jury kurz vor Start des Wertungslaufs zufällig festgelegt.
+Die Teams müssen einen Roboter bauen, welcher mittels Micropython programmiert wird. Der Roboter soll ein selbst gebautes Objekt in einen Zielbereich fahren. Dabei wird der Ablageort (Felder 3) von der Jury kurz vor Start des Wertungslaufs zufällig festgelegt.
 
 1. Das Startfeld ist cyan.
 1. Das Zielfeld ist leuchtgelb.
@@ -22,20 +22,20 @@ Jedes Team bekommt [Lego Education SPIKE Prime](https://education.lego.com/de-de
 
 Programmiert wird in Micropython. Die SPIKE Steine sind mit [PyBricks](https://docs.pybricks.com/en/stable/) versehen.
 
-Als IDE kann der [PyBricks Web Editor](https://code.pybricks.com/) (empfohlen), [PyCharm](https://www.jetbrains.com/de-de/pycharm/download/) oder [VS Code](https://pybricks.com/project/pybricks-other-editors/) verwendet werden.
+Als IDE kann jede beliebige IDE zur Entwicklung mit Micropython verwendet werden. Beispielsweise [PyCharm](https://www.jetbrains.com/de-de/pycharm/download/) oder [VS Code](https://pybricks.com/project/pybricks-other-editors/) verwendet werden.
+Wir empfehlen aber [PyBricks Web Editor](https://code.pybricks.com/).
 
-## Wie lange?
-
-Ihr habt 4 Stunden Zeit. In diesen 4 Stunden wird der Roboter, das Zielfeld und das Objekt gebaut und programmiert. Es finden 2 Wertungsläufe statt. 
-**Am Ende muss alles wieder auseinander gebaut und wieder in den Kästen verstaut sein.**
+_**Am Ende muss alles wieder auseinander gebaut und wieder in den Kästen verstaut sein.**_
 
 ## Bewertung
 
-Es finden 2 Wertungsläufe statt. Nach 2:00 Stunden und nach 3:00 Stunden. Die Wertungsläufe finden in zufälliger Reihenfolge statt. 5 Min vor jedem Wertungslauf müssen die Roboter startbereit auf dem Tisch am Wertungsspielfeld liegen.
-
-Für Schnelligkeit gibt es extra Punkte: Der schnellste Roboter erhält 10 Punkte, der zweit schnellste 5 Punkte.
+Es finden 2 Wertungsläufe statt. Der erste Lauf startet direkt nach dem Mittagessen. Der zweite Lauf 1h vor dem Ende. Die Wertungsläufe finden in zufälliger Reihenfolge statt. Pünktlich zum Wertungslauf müssen die Roboter startbereit auf dem Tisch im Startfeld des eigenen Spielfelds stehen.
 
 _**Die Punkte des besseren Laufs zählen am Ende.**_
+
+### Aufgabe Schnelligkeit
+
+Für Schnelligkeit gibt es Punkte: Der schnellste Roboter erhält 10 Punkte, der zweit schnellste 5 Punkte.
 
 ### Aufgabe Objekt
 
@@ -46,8 +46,8 @@ Das Team muss ein Objekt entwerfen und bauen, welches vom Roboter aufgenommen we
 | Akzeptanzkriterium | Punkte |
 | ------------------ | ------ |
 | Objekt auf Basis konstruiert | 5 |
-| Basis liegt | 5 |
-| Objekt außerhalb des Feldes ohne Bodenkontakt | 5 |
+| Basis liegt flach | 5 |
+| Objekt außerhalb des Objektfelds ohne Bodenkontakt | 5 |
 | **Gesamt** | **max. 15** |
 
 ![Basis](img/Basis-Objekt.jpg)
@@ -56,7 +56,7 @@ Das Team muss ein Objekt entwerfen und bauen, welches vom Roboter aufgenommen we
 
 ### Aufgabe Zielfeld
 
-Jedes Team bringt zum Wertungslauf ein Zielfeld mit welches wie folgt aufgebaut ist:
+Es wird ein Zielfeld gebaut, welches wie folgt aufgebaut ist:
 
 ![Zielfeld](img/Zielfeld_1.jpg)
 
@@ -64,7 +64,7 @@ Jedes Team bringt zum Wertungslauf ein Zielfeld mit welches wie folgt aufgebaut 
 
 ![Zielfeld](img/Zielfeld_3.jpg)
 
-Das Zielfeld wird zum Start des Wertungslauf auf dem Spielfeld im dafür vorgesehenen Feld platziert.
+Das Zielfeld wird spätestens zum Start des Wertungslauf auf dem Spielfeld im dafür vorgesehenen Feld platziert.
 
 Das Objekt muss zum Zielfeld transportiert werden und **in** diesem abgelegt werden. Dabei darf das Zielfeld nicht verschoben werden.
 
@@ -73,7 +73,7 @@ Das Objekt muss zum Zielfeld transportiert werden und **in** diesem abgelegt wer
 | Objekt vollständig im Zielfeld | 10 |
 | Objekt teilweise im Zielfeld | 5 |
 | Zielfeld nicht verschoben | 5 |
-| **Gesamt** | **max. 15** |
+| **Gesamt** | **max. 20** |
 
 ### Aufgabe Parkposition
 
@@ -87,11 +87,30 @@ Nachdem der Roboter das Objekt abgesetzt hat, muss er zurück zur Startposition 
 
 ### Überraschungsaufgabe
 
-Die Überraschungsaufgabe wird 1:00h nach Beginn der Challenge bekannt gegeben und gibt bis zu 10 weiteren Punkten.
+Die Überraschungsaufgabe wird 1:00h nach Beginn der Challenge bekannt gegeben und bringt bis zu 10 weitere Punkte.
 
 | Akzeptanzkriterium | Punkte |
 | ------------------ | ------ |
 | Überraschungsaufgabe Top 1 | 10 |
-| Überraschungsaufgabe Top 2 | 6  |
-| Überraschungsaufgabe Top 3 | 3  |
+| Überraschungsaufgabe Top 2 |  6 |
+| Überraschungsaufgabe Top 3 |  3 |
 | **Gesamt** | **max. 10** |
+
+## Entwicklungs-Umgebung
+
+Entwickelt wird in Micropython mit PyBricks
+  
+### Python Virtual Environment
+
+- [PyBricks](https://pybricks.com/) Version 3.6.0
+- pybricksdev Version 1.0.1 um via BT zu installieren
+
+### IDE Hilfe
+
+- [PyBricks Code](https://code.pybricks.com/) (**empfohlen**)
+- PyCharm
+  - [PyCharm Download](https://www.jetbrains.com/de-de/pycharm/download/)
+  - ![PyCharm RunConfig](img/PyCharm-Bluetooth-RunConfig.png)
+- Visual Studio Code
+  - [VS Code](https://pybricks.com/project/pybricks-other-editors/)
+  - [PyBricks VS Code Anleitung](https://pybricks.com/project/pybricks-other-editors/)
