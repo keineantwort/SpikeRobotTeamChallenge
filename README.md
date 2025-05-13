@@ -119,4 +119,4 @@ Entwickelt wird in Micropython mit PyBricks
 
 **[https://github.com/keineantwort/SpikeRobotTeamChallenge/blob/main/README.md](https://github.com/keineantwort/SpikeRobotTeamChallenge/blob/main/README.md)**
 
-![QR Code Link zur ReadMe](img/qr-code-readme.png)
+<img src="img/qr-code-readme.png" width="500" alt="Link to ReadMe" />
