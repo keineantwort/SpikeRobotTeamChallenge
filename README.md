@@ -4,7 +4,7 @@ Im folgenden werden die Aufgaben zur Spike Robot Team Challenge beschrieben.
 
 ## Was?
 
-Die Teams müssen einen Roboter bauen, welcher mittels Micropython programmiert wird. Der Roboter soll ein selbst gebautes Objekt in einen Zielbereich fahren. Dabei wird der Ablageort (Felder 3) von der Jury kurz vor Start des Wertungslaufs zufällig festgelegt.
+Die Teams sollen einen Roboter bauen, welcher mittels Micropython programmiert wird. Der Roboter soll ein selbst gebautes Objekt in einen Zielbereich fahren. Dabei wird der Ablageort (Felder 3) von der Jury kurz vor Start des Wertungslaufs zufällig festgelegt.
 
 1. Das Startfeld ist cyan.
 1. Das Zielfeld ist leuchtgelb.
@@ -29,7 +29,7 @@ _**Am Ende muss alles wieder auseinander gebaut und wieder in den Kästen versta
 
 ## Bewertung
 
-Es finden 2 Wertungsläufe statt. Der erste Lauf startet direkt nach dem Mittagessen. Der zweite Lauf 1h vor dem Ende. Die Wertungsläufe finden in zufälliger Reihenfolge statt. Pünktlich zum Wertungslauf müssen die Roboter startbereit auf dem Tisch im Startfeld des eigenen Spielfelds stehen.
+Es finden 2 Wertungsläufe statt. Der erste Lauf startet nach dem Mittagessen. Der zweite Lauf 1h vor dem Ende. Die Wertungsläufe finden in zufälliger Reihenfolge statt. Pünktlich zum Wertungslauf müssen die Roboter startbereit auf dem Tisch im Startfeld des eigenen Spielfelds stehen.
 
 _**Die Punkte des besseren Laufs zählen am Ende.**_
 
@@ -46,7 +46,7 @@ Das Team muss ein Objekt entwerfen und bauen, welches vom Roboter aufgenommen we
 | Akzeptanzkriterium | Punkte |
 | ------------------ | ------ |
 | Objekt auf Basis konstruiert | 5 |
-| Basis liegt flach | 5 |
+| Basis liegt flach auf / Objekt ist darauf konstruiert | 5 |
 | Objekt außerhalb des Objektfelds ohne Bodenkontakt | 5 |
 | **Gesamt** | **max. 15** |
 
@@ -73,7 +73,7 @@ Das Objekt muss zum Zielfeld transportiert werden und **in** diesem abgelegt wer
 | Objekt vollständig im Zielfeld | 10 |
 | Objekt teilweise im Zielfeld | 5 |
 | Zielfeld nicht verschoben | 5 |
-| **Gesamt** | **max. 20** |
+| **Gesamt** | **max. 15** |
 
 ### Aufgabe Parkposition
 
@@ -114,3 +114,9 @@ Entwickelt wird in Micropython mit PyBricks
 - Visual Studio Code
   - [VS Code](https://pybricks.com/project/pybricks-other-editors/)
   - [PyBricks VS Code Anleitung](https://pybricks.com/project/pybricks-other-editors/)
+
+## Link zu dieser Seite
+
+**[https://github.com/keineantwort/SpikeRobotTeamChallenge/blob/main/README.md](https://github.com/keineantwort/SpikeRobotTeamChallenge/blob/main/README.md)**
+
+![QR Code Link zur ReadMe](img/qr-code-readme.png)
