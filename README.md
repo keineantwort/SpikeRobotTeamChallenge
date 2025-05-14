@@ -25,11 +25,15 @@ Programmiert wird in Micropython. Die SPIKE Steine sind mit [PyBricks](https://d
 Als IDE kann jede beliebige IDE zur Entwicklung mit Micropython verwendet werden. Beispielsweise [PyCharm](https://www.jetbrains.com/de-de/pycharm/download/) oder [VS Code](https://pybricks.com/project/pybricks-other-editors/) verwendet werden.
 Wir empfehlen aber [PyBricks Web Editor](https://code.pybricks.com/).
 
+_**Die Roboter sollen NICHT geflasht werden!**_
+
 _**Am Ende muss alles wieder auseinander gebaut und wieder in den Kästen verstaut sein.**_
 
 ## Bewertung
 
 Es finden 2 Wertungsläufe statt. Der erste Lauf startet nach dem Mittagessen. Der zweite Lauf 1h vor dem Ende. Die Wertungsläufe finden in zufälliger Reihenfolge statt. Pünktlich zum Wertungslauf müssen die Roboter startbereit auf dem Tisch im Startfeld des eigenen Spielfelds stehen.
+
+Jeder Bewertungslauf dauert **3** Minuten.
 
 _**Die Punkte des besseren Laufs zählen am Ende.**_
 
@@ -70,19 +74,20 @@ Das Objekt muss zum Zielfeld transportiert werden und **in** diesem abgelegt wer
 
 | Akzeptanzkriterium | Punkte |
 | ------------------ | ------ |
-| Objekt vollständig im Zielfeld | 10 |
-| Objekt teilweise im Zielfeld | 5 |
+| Objekt vollständig im Zielfeld | 20 |
+| Objekt teilweise im Zielfeld | 15 |
 | Zielfeld nicht verschoben | 5 |
 | **Gesamt** | **max. 15** |
 
 ### Aufgabe Parkposition
 
-Nachdem der Roboter das Objekt abgesetzt hat, muss er zurück zur Startposition fahren und dort stehen bleiben.
+Nachdem der Roboter das Objekt abgesetzt hat, muss er zurück zur Startposition fahren und dort stehen bleiben. Der Roboter muss das Startfeld vollständig verlassen haben.
 
 | Akzeptanzkriterium | Punkte |
 | ------------------ | ------ |
 | Roboter vollständig im Startfeld | 10 |
 | Roboter berührt das Startfeld | 5 |
+| Roboter hat das Startfeld nicht verlassen | 0 |
 | **Gesamt** | **max. 10** |
 
 ### Überraschungsaufgabe
